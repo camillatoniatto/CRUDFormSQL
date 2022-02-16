@@ -1,0 +1,12 @@
+C:\progamas\CRUDSQL2022\bin\Debug\CRUDSQL2022.exe.config
+C:\progamas\CRUDSQL2022\bin\Debug\CRUDSQL2022.exe
+C:\progamas\CRUDSQL2022\bin\Debug\CRUDSQL2022.pdb
+C:\progamas\CRUDSQL2022\obj\Debug\CRUDSQL2022.csprojAssemblyReference.cache
+C:\progamas\CRUDSQL2022\obj\Debug\CRUDSQL2022.FormCRUD.resources
+C:\progamas\CRUDSQL2022\obj\Debug\CRUDSQL2022.Properties.Resources.resources
+C:\progamas\CRUDSQL2022\obj\Debug\CRUDSQL2022.csproj.GenerateResource.cache
+C:\progamas\CRUDSQL2022\obj\Debug\CRUDSQL2022.csproj.CoreCompileInputs.cache
+C:\progamas\CRUDSQL2022\obj\Debug\CRUDSQL2022.exe
+C:\progamas\CRUDSQL2022\obj\Debug\CRUDSQL2022.pdb
+C:\progamas\CRUDSQL2022\bin\Debug\DBPessoa.mdf
+C:\progamas\CRUDSQL2022\bin\Debug\DBPessoa_log.ldf
