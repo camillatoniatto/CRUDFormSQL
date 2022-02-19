@@ -1,0 +1,12 @@
+C:\progamas\ResExec\bin\Debug\ResExec.exe.config
+C:\progamas\ResExec\bin\Debug\ResExec.exe
+C:\progamas\ResExec\bin\Debug\ResExec.pdb
+C:\progamas\ResExec\obj\Debug\ResExec.csprojAssemblyReference.cache
+C:\progamas\ResExec\obj\Debug\ResExec.FormPrincipal.resources
+C:\progamas\ResExec\obj\Debug\ResExec.Properties.Resources.resources
+C:\progamas\ResExec\obj\Debug\ResExec.csproj.GenerateResource.cache
+C:\progamas\ResExec\obj\Debug\ResExec.csproj.CoreCompileInputs.cache
+C:\progamas\ResExec\obj\Debug\ResExec.exe
+C:\progamas\ResExec\obj\Debug\ResExec.pdb
+C:\progamas\ResExec\bin\Debug\DbFriend.mdf
+C:\progamas\ResExec\bin\Debug\DbFriend_log.ldf
