@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\DbPlayer\bin\Debug\DbPlayer.exe.config
+C:\Users\Aluno\source\repos\DbPlayer\bin\Debug\DbPlayer.exe
+C:\Users\Aluno\source\repos\DbPlayer\bin\Debug\DbPlayer.pdb
+C:\Users\Aluno\source\repos\DbPlayer\obj\Debug\DbPlayer.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\DbPlayer\obj\Debug\DbPlayer.FormPrincipal.resources
+C:\Users\Aluno\source\repos\DbPlayer\obj\Debug\DbPlayer.Properties.Resources.resources
+C:\Users\Aluno\source\repos\DbPlayer\obj\Debug\DbPlayer.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\DbPlayer\obj\Debug\DbPlayer.exe
+C:\Users\Aluno\source\repos\DbPlayer\obj\Debug\DbPlayer.pdb
+C:\Users\Aluno\source\repos\DbPlayer\bin\Debug\DbPlayer.mdf
+C:\Users\Aluno\source\repos\DbPlayer\bin\Debug\DbPlayer_log.ldf
