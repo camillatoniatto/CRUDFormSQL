@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\CRUDBarto\bin\Debug\DbCliente.mdf
+C:\Users\Aluno\source\repos\CRUDBarto\bin\Debug\DbCliente_log.ldf
+C:\Users\Aluno\source\repos\CRUDBarto\bin\Debug\CRUDBarto.exe.config
+C:\Users\Aluno\source\repos\CRUDBarto\bin\Debug\CRUDBarto.exe
+C:\Users\Aluno\source\repos\CRUDBarto\bin\Debug\CRUDBarto.pdb
+C:\Users\Aluno\source\repos\CRUDBarto\obj\Debug\CRUDBarto.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\CRUDBarto\obj\Debug\CRUDBarto.FormMain.resources
+C:\Users\Aluno\source\repos\CRUDBarto\obj\Debug\CRUDBarto.Properties.Resources.resources
+C:\Users\Aluno\source\repos\CRUDBarto\obj\Debug\CRUDBarto.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\CRUDBarto\obj\Debug\CRUDBarto.exe
+C:\Users\Aluno\source\repos\CRUDBarto\obj\Debug\CRUDBarto.pdb
